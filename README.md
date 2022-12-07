@@ -6,7 +6,7 @@
 - 👯 Also you can follow me on [Spotify](https://open.spotify.com/user/85gnnw6eucstooirsk9j5zuia?si=06a276edea3c4429) and [Pinterest](https://tr.pinterest.com/r00t_TonyStark/)
 - 🤘 I love Rock 'N Roll
 
-See my [LinkedIn(https://www.linkedin.com/in/yi%C4%9Fit-can-%C3%B6zdemir-941666252/) account.
+See my [LinkedIn](https://www.linkedin.com/in/yi%C4%9Fit-can-%C3%B6zdemir-941666252/) account.
 
 Thanks for visiting !
 
