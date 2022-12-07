@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Tosçelik Profil & Sac as AI Developer
 - 🌱 I’m currently learning Algebra for ML, Computational Neuroscience & I am learning C++ for Computer Vision projects in the site at the factory.
-- 📫 How to reach me on Discord, Discord ID: Tony Stark#8317
+- 📫 You can reach me on Discord, Discord ID: Tony Stark#8317
 
 <!--
 **Yigit-AI-Dev/Yigit-AI-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
