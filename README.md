@@ -7,7 +7,7 @@
 - 🤘 I love Rock 'N Roll
 - 
 
-Link to [Pinterest Profiel](https://tr.pinterest.com/r00t_TonyStark/)
+Link to [Pinterest Profile](https://tr.pinterest.com/r00t_TonyStark/)
 
 Link to [Spotify](https://open.spotify.com/user/85gnnw6eucstooirsk9j5zuia?si=06a276edea3c4429)
 
