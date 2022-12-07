@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning Algebra for ML, Computational Neuroscience & I am learning C++ for Computer Vision projects in the site at the factory.
 - 📫 You can reach me on Discord, Discord ID: Tony Stark#8317
 - 👯 Also you can follow on Spotify and Pinterest
+- 🤘 I love Rock 'N Roll
+- 
 
-https://tr.pinterest.com/r00t_TonyStark/
-
-Link to [site name](https://tr.pinterest.com/r00t_TonyStark/)
-Link to [site name](https://open.spotify.com/user/85gnnw6eucstooirsk9j5zuia?si=06a276edea3c4429)
+Link to [Pinterest Profiel](https://tr.pinterest.com/r00t_TonyStark/)
+Link to [Spotify](https://open.spotify.com/user/85gnnw6eucstooirsk9j5zuia?si=06a276edea3c4429)
 
 Thanks for visiting !
 
