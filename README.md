@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Tosçelik Profil & Sac Company as AI Developer
+- 🔭 I am currently working as an AI Developer at Tosçelik Profil & Sac company.
 - 🌱 I’m currently learning Algebra for ML, Computational Neuroscience & I am learning C++ for Computer Vision projects in the site at the factory.
 - 📫 You can reach me on Discord, Discord ID: Tony Stark#8317
 - 👯 Also you can follow me on [Spotify](https://open.spotify.com/user/85gnnw6eucstooirsk9j5zuia?si=06a276edea3c4429) and [Pinterest](https://tr.pinterest.com/r00t_TonyStark/)
