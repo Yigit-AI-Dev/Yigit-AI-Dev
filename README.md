@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently working as an AI Developer at Tosçelik Profil & Sac company. Also I am finalist at 2023 Teknofest Artificial Intelligence in Transportation Competition (Just as Myself)
+- 🔭 I am currently working as an AI Developer at Tosçelik Profil & Sac company. Also I am finalist at 2023 Teknofest Artificial Intelligence in Transportation Competition (I just work by myself, I dont have team)
 - 🌱 I am currently learning WSL 2 & Docker for ML/DL working environments (Docker provides us portability & ready packaging at the factory for project). And also I am learning C# for end-user projects (We have to develop to IT, HR departmans and operators in the factory).
 - 📫 You can reach me on Discord and E-Mail. Discord ID: Tony Stark#8317 Mail: yigitcan.just.business@gmail.com
 - 👯 Also you can follow me on [Spotify](https://open.spotify.com/user/85gnnw6eucstooirsk9j5zuia?si=06a276edea3c4429) and [Pinterest](https://tr.pinterest.com/r00t_TonyStark/)
